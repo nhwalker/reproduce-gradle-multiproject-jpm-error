@@ -1,2 +1,8 @@
 .gradle
 build
+
+# Ignore Generated Eclipse Files
+.project
+.classpath
+.settings/
+bin/
